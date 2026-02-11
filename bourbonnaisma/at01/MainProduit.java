@@ -1,3 +1,10 @@
+/**
+* Cette classe contient la méthode principale main() pour tester la classe Produit.
+*
+* @author Bourbonnais Maxime
+*
+*/
+
 package bourbonnaisma.at01;
 
 public class MainProduit {

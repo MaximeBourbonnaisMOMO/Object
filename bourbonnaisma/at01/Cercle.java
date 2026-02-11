@@ -1,3 +1,10 @@
+/**
+* Cette classe contient les attributs et methodes de la classe Cercle.
+*
+* @author Bourbonnais Maxime
+*
+*/
+
 package bourbonnaisma.at01;
 
 public class Cercle {
